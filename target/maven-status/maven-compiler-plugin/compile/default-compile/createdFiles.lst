@@ -1,0 +1,6 @@
+resources\base.class
+pageObjects\portalHomePage.class
+resources\ExtentReporterNG.class
+pageObjects\LandingPage.class
+pageObjects\LoginPage.class
+pageObjects\ForgotPassword.class

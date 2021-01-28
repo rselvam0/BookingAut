@@ -1,0 +1,14 @@
+20:37:08.530 [TestNG-tests-1] INFO  resources.base - Driver is initialized
+20:37:25.635 [TestNG-tests-2] INFO  resources.base - Navigation Bar is displayed
+20:37:28.257 [TestNG-tests-1] INFO  resources.base - Navigated to home page
+20:37:28.838 [TestNG-tests-1] INFO  resources.base - Successfully validated text message
+20:38:21.974 [TestNG-tests-1] INFO  resources.base - Driver is initialized
+21:30:12.406 [TestNG-tests-1] INFO  resources.base - Driver is initialized
+21:30:32.618 [TestNG-tests-1] INFO  resources.base - Navigated to home page
+21:30:33.794 [TestNG-tests-1] INFO  resources.base - Successfully validated text message
+21:30:35.308 [TestNG-tests-2] INFO  resources.base - Navigation Bar is displayed
+21:30:55.571 [TestNG-tests-3] INFO  resources.base - Restricted user
+21:32:39.647 [TestNG-tests-1] INFO  resources.base - Driver is initialized
+21:32:54.559 [TestNG-tests-1] INFO  resources.base - Navigated to home page
+21:32:59.955 [TestNG-tests-1] INFO  resources.base - Successfully validated text message
+21:32:59.955 [TestNG-tests-2] INFO  resources.base - Navigation Bar is displayed
